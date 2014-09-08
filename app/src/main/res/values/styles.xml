@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowBackground">@color/window_background_color</item>
+        <item name="android:textViewStyle">@style/TextViewStyle</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:textSize">@dimen/text_view_size</item>
+        <item name="android:textColor">@color/text_view_color</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+</resources>
